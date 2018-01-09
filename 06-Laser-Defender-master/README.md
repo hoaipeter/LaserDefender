@@ -1,10 +1,6 @@
 
 ### Your Laser Defender Assets ###
 
-### Section 6 Notes ###
-
-
-
 ### Importing The Menu System ###
 
 + Open our previous game and import the menu system
